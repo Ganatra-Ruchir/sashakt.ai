@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.sqlite
+*.db
+.sashakt-ai/
+client_secret.json
+google_token.json
+*credentials*.json
+*service-account*.json
